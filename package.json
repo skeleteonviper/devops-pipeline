@@ -1,0 +1,13 @@
+{
+  "name": "devops-pipeline",
+  "version": "1.0.0",
+  "description": "It's regarding the devops pipeline and learning the CI/CD pipeline till production",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
